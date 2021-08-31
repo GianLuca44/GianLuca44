@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Metrics](https://my-personal-domain.com/my-github-user)
+![Metrics](https://github.com/GianLuca44/GianLuca44/)
